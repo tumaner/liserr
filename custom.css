@@ -1,0 +1,19 @@
+:root {
+    --bs-body-bg: #e0eadf;
+	--bs-light-rgb: 194, 216, 192;
+    --bs-body-color: #000;
+	--bs-heading-color: #000;
+	--bs-border-color: #000;
+	--bs-body-font-family: 'Courier New', Courier, monospace;
+	--bs-body-font-weight: 400;
+	
+	/*--col-fg: #026c10;*/
+}
+
+h1, .navbar-brand {
+	font-weight: 900;
+}
+
+.toggle-btn {
+	width: 9em;
+}
