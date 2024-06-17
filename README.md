@@ -1,8 +1,13 @@
+# <ins>Веб-дизайн</ins>
+
 Студент: Ішмуратов Тимур Ільдарович
 
 Група: КВ-13
 
-Лабораторна робота №1
+---
+
+## Лабораторна робота №1
+[*Звіт до лабораторної роботи.*](https://docs.google.com/document/d/1J5iaY9fbCqjBkzP2IPHokR8VsehBKXYwSkZlMe-4TtQ/edit?usp=sharing "Лабораторна робота №1")
 
 **Мета**: ознайомитись із засобами мов HTML5 та CSS3 та навчитись застосовувати бібліотеки Twitter Bootstrap/Material UI щодо швидкої побудови Web-інтерфейсу користувача.
 
@@ -10,4 +15,15 @@
 
 **Інструменти розробки**: мови HTML5, CSS3, фреймворки Twitter Bootstrap або Material UI.
 
-[*Звіт до лабораторної роботи.*](https://docs.google.com/document/d/1J5iaY9fbCqjBkzP2IPHokR8VsehBKXYwSkZlMe-4TtQ/edit?usp=sharing)
+---
+
+## Лабораторна робота №2
+[*Звіт до лабораторної роботи.*](https://docs.google.com/document/d/11-SniNHZXhWOOnZxg5VdDnHjjgE-IuLuuhWtdr3tDkY/edit?usp=sharing "Лабораторна робота №2")
+
+**Мета**: ознайомитись із засобами мови Javascript та навчитись їх застосовувати побудови Web-інтерфейсу користувача.
+
+**Загальне завдання**: розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC.
+
+**Інструменти розробки**: мови HTML5, CSS3, Javascript.
+
+**Зауваження**: Web-фреймворки (ReactJS, AngularJS, VueJS) не використовувати!
